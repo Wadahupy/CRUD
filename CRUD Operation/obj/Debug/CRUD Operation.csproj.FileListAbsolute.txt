@@ -1,0 +1,37 @@
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.AssemblyReference.cache
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.SuggestedBindingRedirects.cache
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD_Operation.Form1.resources
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD_Operation.Properties.Resources.resources
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.GenerateResource.cache
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.CoreCompileInputs.cache
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe.config
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.pdb
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\Google.Protobuf.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\MySql.Data.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Buffers.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.IO.Pipelines.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Memory.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\Google.Protobuf.pdb
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\Google.Protobuf.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\MySql.Data.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Buffers.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.IO.Pipelines.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Memory.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.CopyComplete
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.exe
+C:\Users\quila\source\repos\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.pdb
